@@ -25,7 +25,7 @@ git remote remove <shortname>                   // 删除一个远程仓库
 git remote rename <shortname> <new_shortname>   // 重命名
 
 git fetch <remote>                              // 抓取远程仓库
-
+git push -u origin <branch name>                // 推送到远程分支
 ```
 
 
